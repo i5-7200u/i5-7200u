@@ -1,7 +1,7 @@
 ### Merhaba reis.
 ### Kendi halinde takilan bir Masaüstü programlama geliştiricisiyim.
-### Bu kadar. Benim ile iletişime geçmek için Discord == Kriptonlu#9159
-
+### Benim ile iletişime geçmek için Discord == Kriptonlu#9159
+### Bagis icin papara no == 1163057598
 <!--
 **i5-7200u/i5-7200u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
